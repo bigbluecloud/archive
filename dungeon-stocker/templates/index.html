@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Dungeon stocker - D&ampD 5e</title>
+        <meta name="description"
+            content="Dungeon stocker for D&ampD 5e"/>
+        <meta name="author" content="bigbluecloud@github"/>
+        <link rel="icon" type="icon" href="{{ url_for('static', filename='favicon.ico') }}"/>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/simplicity-css/simplicity.css') }}"/>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/simplicity-css/grid.css') }}"/>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}"/>
+    </head>
+
+    <body>
+        <div class="container">
+            <div id="left-col">
+                <button class="btn btn-submit" onclick="javascript:generate()">Generate</button>
+                <p id="content-panel"></p>
+            </div>
+        </div> <!-- container-->
+
+        <!-- Scripts -->
+        <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.1.0.min.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/script.js') }}"></script>
+    </body>
+</html>

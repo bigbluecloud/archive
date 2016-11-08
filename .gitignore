@@ -1,8 +1,11 @@
 *.o
 *.exe
+*.pyc
 
 ENV/
 ipch/
 Debug/
 Release/
 WIN32*/
+__pycache__/
+

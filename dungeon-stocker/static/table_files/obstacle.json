@@ -1,0 +1,14 @@
+{
+    "Anti-life aura with radius of 1d10 x 10ft., while inside it creatures cannot regain hit points": 1,
+    "Battering winds reduce speed by half, impose disadvantage on ranged attacks": 1,
+    "Blade barrier blocks passage": 1,
+    "Cave-in": 5,
+    "Chasm 1d4 x 10ft. wide and 2d6 x 10ft. deep, possibly connected to other parts of the dungeon": 4,
+    "Flooding leaves 2d10 ft. of water in the area; create upward sloping passages or, raised floors, or stairs to contain the water": 2,
+    "Lava flows through the area (50% chance there is a bridge crossing it)": 1,
+    "Overgrown mushrooms block progress and must be hacked down (25% of mold or fungus hazard hidden among them)": 1,
+    "Poisonous gas (deals 1d6 damage per minute of exposure)": 1,
+    "Reverse gravity effect causing creatures and objects to fall toward the ceiling": 1,
+    "Wall of fire blocks passage": 1,
+    "Wall of force blocks passage": 1
+}

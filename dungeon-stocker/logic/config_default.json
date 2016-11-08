@@ -1,0 +1,41 @@
+{
+  "floors": 8,
+  "rooms": 4,
+  "empty_room_chance": 5,
+  "obstacle": {
+      "chance": 20,
+      "num": 1
+  },
+  "odor": {
+      "chance": 25,
+      "num": 1
+  },
+  "chamber_state": {
+      "chance": 100,
+      "num": 1
+  },
+  "traps": {
+      "chance": 40,
+      "num": 3
+  },
+  "tricks": {
+      "chance": 15,
+      "num": 1
+  },
+  "general_features": {
+      "num": 3,
+      "chance": 50
+  },
+  "general_furnishings": {
+      "num": 4,
+      "chance": 75
+  },
+  "mage_furnishings": {
+      "num": 10,
+      "chance": 75
+  },
+  "books": {
+      "num": 12,
+      "chance": 15
+  }
+}

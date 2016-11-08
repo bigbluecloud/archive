@@ -1,0 +1,116 @@
+/*
+* Simplicity CSS
+* Author bigbluecloud@github
+*/
+
+html { font-size: 16px; }
+
+body {
+  margin: 0;
+  font: Georgia, Palatino, Serif;
+  background-color: #F8F8F8;
+}
+
+h1 { font-size: 2.2em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.8em; }
+h4 { font-size: 1.4em; }
+h5 { font-size: 1.2em; }
+h6 { font-size: 1.1em; }
+
+h1, h2, h3, h4, h5, h6 { line-height: 1.1; }
+
+small {
+  margin: 1em 0;
+  font-size: 0.875em;
+  color: #444444;
+}
+
+p {
+  margin: 1em 0;
+  line-height: 1.6em;
+  color: #444444;
+}
+
+pre {
+  margin: 1.5em;
+  padding: 0.5em 1em;
+
+  border-left: 4px #6F6F6F solid;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+  background-color: #D4D4D4;
+
+  font: 0.875em/1.4 "Courier New", "Lucida Sans Typewriter", monospace;
+
+  white-space: pre-wrap;
+}
+
+code {
+  font: 0.875em/1.4 "Courier New", "Lucida Sans Typewriter", monospace;
+}
+
+.italic { font-style: italic; }
+
+.underline { text-decoration: underline; }
+
+.strikethrough { text-decoration: line-through; }
+
+.overline { text-decoration: overline; }
+
+.lighter { font-weight: lighter; }
+
+.bold { font-weight: bold; }
+
+.bolder { font-weight: bolder; }
+
+.container {
+  margin: 2em auto;
+  max-width: 720px;
+}
+
+.btn {
+  margin: 0 4px;
+  padding: 10px 14px;
+  display: inline-block;
+
+  font-weight: bold;
+
+  border: none;
+  border-radius: 4px;
+  background-color: #F4F4F4;
+
+  text-align: centre;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.btn-default {
+  color: #3F3F3F;
+  border: 1px #6F6F6F solid;
+}
+
+.btn-submit {
+  color: #F4F4F4;
+  background-color: #2424CC;
+}
+
+.btn-danger{
+  color: #F4F4F4;
+  background-color: #BB2A2A;
+}
+
+.btn-info {
+  color: #F4F4F4;
+  background-color: #2A99BB;
+}
+
+.btn-success {
+  color: #F4F4F4;
+  background-color: #2AAA2A;
+}
+
+.btn-warning {
+  color: #F4F4F4;
+  background-color: #D1B50A;
+}

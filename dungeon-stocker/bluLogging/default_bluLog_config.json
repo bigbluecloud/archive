@@ -1,0 +1,86 @@
+{
+    "version": 1,
+    "disable_existing_loggers": "false",
+    "formatters": {
+        "basic": {
+            "class": "logging.Formatter",
+            "style": "{",
+            "datefmt": "%Y/%m/%d %H:%M:%S",
+            "format": "[ {asctime} ] {name:10} {levelname:14} {message}"
+        }
+    },
+
+    "handlers": {
+        "stream_stdout": {
+            "class": "logging.StreamHandler",
+            "level": "DEBUG",
+            "formatter": "basic",
+            "stream": "ext://sys.stdout"
+        },
+        "debug_file_log": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "basic",
+            "filename": "logs/debug.log",
+            "mode": "a",
+            "encoding": "utf-8",
+            "maxBytes": 10485760
+        },
+        "info_file_log": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "INFO",
+            "formatter": "basic",
+            "filename": "logs/info.log",
+            "mode": "a",
+            "encoding": "utf-8",
+            "maxBytes": 10485760
+        },
+        "warn_file_log": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "WARN",
+            "formatter": "basic",
+            "filename": "logs/warn.log",
+            "mode": "a",
+            "encoding": "utf-8",
+            "maxBytes": 10485760
+        },
+        "error_file_log": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "ERROR",
+            "formatter": "basic",
+            "filename": "logs/error.log",
+            "mode": "a",
+            "encoding": "utf-8",
+            "maxBytes": 10485760
+        }
+    },
+
+    "loggers": {
+        "debug_logger": {
+            "level": "DEBUG",
+            "propagate": 0,
+            "handlers": ["debug_file_log", "stream_stdout"]
+        },
+        "info_logger": {
+            "level": "INFO",
+            "propagate": 0,
+            "handlers": ["info_file_log"]
+        },
+        "warn_logger": {
+            "level": "WARN",
+            "propagate": 0,
+            "handlers": ["warn_file_log"]
+        },
+        "error_logger": {
+            "level": "ERROR",
+            "propagate": 0,
+            "handlers": ["error_file_log"]
+        }
+
+    },
+
+    "root": {
+        "handlers": ["stream_stdout"],
+        "level": "DEBUG"
+    }
+}

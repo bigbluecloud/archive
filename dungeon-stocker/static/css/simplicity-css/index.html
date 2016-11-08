@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Simplicity-CSS</title>
+    <meta charset="utf-8"></meta>
+    <link rel="stylesheet" type="text/css" href="simplicity.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- Headings -->
+      <h1>Heading 1</h1>
+      <h2>Heading 2</h2>
+      <h3>Heading 3</h3>
+      <h4>Heading 4</h4>
+      <h5>Heading 5</h5>
+      <h6>Heading 6</h6>
+      
+      <!-- Small text -->
+      <small>Will have to set up &ltsmall&gt tags with parent elements for each of the headings in the CSS stylesheet i.e. h1&gtsmall, h2&gtsmall ... h6&gtsmall in addition to this generic small formatting</small>
+      
+      <!-- Paragraph text with span styles -->
+      <p>
+        Standard text from the p tag; 16 pixel size, font-family of Georgia with a fallback of Palatino, then Serif (Inherited from body tag). Line height of 1.6em and top and bottom margins of 1em.<br/><br/>
+        <span class="italic">Text with italics</span> 
+        <span class="underline">Text with underline</span>
+        <span class="strikethrough">Text with strikethrough</span> 
+        <span class="overline">Text with overline</span>
+        <span class="lighter">Text with lighter</span>
+        <span class="bold">Text with bold</span>
+        <span class="bolder">Text with bolder</span>
+      </p>
+      
+      <!-- code -->
+      <div class="container">
+        <code>This is code text, so you should wrap it in a block level element like &ltdiv&gt or ideally &ltpre&gt.</code>
+      </div>
+      
+      <!-- pre -->
+      <pre>&ltpre&gt tag text (font-family of Lucida Console, with a fallback of Courier New then monospace) and margins of 1.5em. This has been set up with the property 'white-space: pre-wrap' to allow for easy wrapping.
+      However you still have to be careful if your text editor automatically indents (as shown).</pre>
+      
+      <!-- Buttons -->
+      <button class="btn btn-default" type="button" onclick="alert('Hello!')">Standard</button>
+      <button class="btn btn-submit" type="button" onclick="alert('Submitted!')">Submit</button>
+      <button class="btn btn-info" type="button" onclick="alert('Information!')">Info</button>
+      <button class="btn btn-success" type="button" onclick="alert('Success!')">Success</button>
+      <button class="btn btn-warning" type="button" onclick="alert('Warning!')">Warning</button>
+      <button class="btn btn-danger" type="button" onclick="alert('Danger!')">Danger</button>
+    </div>
+  </body>
+
+</html>

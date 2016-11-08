@@ -1,0 +1,594 @@
+Floor air is Clear and damp.
+
+Room 1:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Water, large puddle
+		Dung
+	Obstacle:
+	Furnishings:
+		Fireplace with mantle
+		Pallet
+		Mattress
+		Staff, normal
+	Mage furnishings:
+		Bottle
+		Workbench
+		Magic circle
+		Tube (container)
+		Workbench
+		Brazier
+		Kettle
+	Books:
+
+Room 2:
+	Room state:
+		Converted to some other use (roll on General dungeon chambers)
+	Odor:
+	Room feature:
+		Food scraps
+		Water, large puddle
+	Obstacle:
+	Furnishings:
+		Bench
+	Mage furnishings:
+		Beaker
+		Crystal ball
+		Horn
+		Hourglass
+		Wire
+		Beaker
+		Parchment
+		Tank (container)
+	Books:
+		Almanac
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Touching an object triggers a flesh to stone spell.
+
+Room 3:
+	Room state:
+		Ashes, contents mostly burned
+	Odor:
+	Room feature:
+		Cobwebs
+	Obstacle:
+		Cave-in
+	Furnishings:
+		Idol (large)
+		Fireplace and wood
+		Desk
+	Mage furnishings:
+		Book
+		Mortar and pestle
+		Hourglass
+		Pan
+		Retort
+		Herbs
+		Rod, stirring or mixing
+		Brazier
+		Workbench
+	Books:
+		Prayer book
+		Forged document
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved through (doorway, hallway). Effect: Clanging noise attracts attention of nearby monsters.
+	Deadly (DC 16 - 20, +9 to +12) trap. Triggered by Moved through (doorway, hallway). Effect: Darts shoot out of an opened chest.
+
+Room 4:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+	Room feature:
+		Coin, copper
+	Obstacle:
+	Furnishings:
+		Box (large)
+		Cupboard
+		Sack
+	Mage furnishings:
+		Brazier
+		Bottle
+		Scroll
+		Pan
+		Wire
+		Stool
+	Books:
+		Contract
+		Lunatic's ravings
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Looked at (mural, arcane symbol). Effect: Spears (possibly poisoned) spring out.
+
+Room 5:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Water, large puddle
+	Obstacle:
+	Furnishings:
+		Fireplace and wood
+		Throne
+		Arras or curtain
+	Mage furnishings:
+		Workbench
+		Scroll
+		Tweezers
+		Candle
+		Scroll
+		Flask or jar
+		Vial
+	Books:
+		Diary
+		Bestiary
+		Diary
+	Trick: Suit of armour that releases, summons, or turns into a monster.
+
+Room 6:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Dust
+	Obstacle:
+		Chasm 1d4 x 10ft. wide and 2d6 x 10ft. deep, possibly connected to other parts of the dungeon
+	Furnishings:
+		Table, round
+		Tub
+		Altar
+	Mage furnishings:
+		Pentagram
+		Skull
+		Beaker
+		Chalk
+		Book
+		Pentacle
+		Book
+		Alembic
+		Book
+	Books:
+		Biography
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Looked at (mural, arcane symbol). Effect: Door or other object is coated with contact poison.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Looked at (mural, arcane symbol). Effect: Hidden pit floods with acid or fire.
+	Trick: Skull that animates itself or other objects nearby.
+
+Room 7:
+	Room state:
+		Used as a campsite
+	Odor:
+	Room feature:
+		Cobwebs
+		Mold (common)
+	Obstacle:
+	Furnishings:
+		Firkin (small cask, 10 gallons)
+	Mage furnishings:
+		Vial
+		Alembic
+		Workbench
+		Water clock
+		Candlestick
+		Chalk
+		Beaker
+		Brazier
+	Books:
+		Catalog
+		Book of myths
+		Dictionary
+		Text on exotic flora or fauna
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Touching an object triggers a disintegrate spell.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Locked room floods with water or acid.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Symbol.
+
+Room 8:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+		Cobwebs
+		Cracks, ceiling
+	Obstacle:
+	Furnishings:
+		Chair (plain)
+		Sconce
+		Tun (huge cask, 250 gallons)
+		Chest, large
+	Mage furnishings:
+		Retort
+		Beaker
+		Pan
+		Vial
+		Tube (container)
+		Jug
+		Spatula
+		Book
+	Books:
+
+Room 9:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+		Cracks, ceiling
+		Ashes
+	Obstacle:
+	Furnishings:
+		Table, low
+		Bunks
+		Crate
+	Mage furnishings:
+		Workbench
+		Magic circle
+		Alembic
+		Workbench
+		Parchment
+		Cauldron
+		Chalk
+		Brazier
+	Books:
+		Alchemist's notebook
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Touched (doorknob, statue). Effect: Magic missiles shoot from an object.
+
+Room 10 is an empty room.
+
+Room 11:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+	Room feature:
+		Wall scratchings
+	Obstacle:
+	Furnishings:
+		Chest, medium
+	Mage furnishings:
+		Water clock
+		Quill
+		Cauldron
+		Brazier
+		Horn
+		Horn
+		Prism
+		Rod, stirring or mixing
+	Books:
+		Bestiary
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Opened (door, treasure chest). Effect: Symbol.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Steel or stone jaws restrain a character.
+
+Room 12:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Dripping blood
+	Obstacle:
+	Furnishings:
+		Table, small
+		Sconce
+		Pail
+		Wood billets
+	Mage furnishings:
+		Pan
+		Stand
+		Scroll
+		Decanter
+		Workbench
+		Flask or jar
+		Tongs
+	Books:
+		Letter
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved (Moved). Effect: A weapon, suit of armour, or rug animates and attaches when touched (See "Animated objects in the Monster Manual").
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Stepped on (floor, stairs). Effect: Vent releases gas; blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing.
+
+Room 13:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+		Dank or moldy
+	Room feature:
+		Straw
+		Cracks, floor
+	Obstacle:
+	Furnishings:
+		Bag
+		Fireplace with mantle
+		Wall basin and front
+		Bench
+	Mage furnishings:
+		Book
+		Bowl
+		Workbench
+		Lens (concave or convex)
+		Jug
+		Magic circle
+		Desk
+		Skull
+		Scroll
+		Book
+	Books:
+		Letter
+		Letter
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Moved (Moved). Effect: Vent releases gas; blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing.
+
+Room 14:
+	Room state:
+		Used as a campsite
+	Odor:
+	Room feature:
+	Obstacle:
+	Furnishings:
+		Table, large
+		Closet
+	Mage furnishings:
+		Workbench
+		Quill
+		Jug
+		Funnel
+		Retort
+		Retort
+		Vial
+		Scroll
+	Books:
+		Travelogue for an exotic land
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Door or other object is coated with contact poison.
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Touched (doorknob, statue). Effect: Touching an object triggers a flesh to stone spell.
+	Trick: Furniture that asks three skill testing questions (if all three are answered correctly, a reward appears).
+
+Room 15:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+		Helmet, badly dented
+	Obstacle:
+	Furnishings:
+		Bed
+		Arras or curtain
+		Chest, large
+		Sconce
+	Mage furnishings:
+		Quill
+		Dish
+		Decanter
+		Stool
+		Quill
+		Sextant
+		Tube (piping)
+		Workbench
+	Books:
+		Almanac
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved through (doorway, hallway). Effect: Glyph of warding.
+
+Room 16:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Ashes
+	Obstacle:
+	Furnishings:
+		Hogshead (large cask, 65 gallons)
+		Stool, normal
+		Rug (small or medium)
+		Statue
+	Mage furnishings:
+		Candlestick
+		Scroll
+		Candlestick
+		Pan
+		Tank (container)
+		Stool
+		Dish
+		Funnel
+		Workbench
+	Books:
+		Biography
+
+Room 17 is an empty room.
+
+Room 18:
+	Room state:
+		Pristine condition
+	Odor:
+	Room feature:
+		Cobwebs
+	Obstacle:
+	Furnishings:
+		Rug (small or medium)
+		Tapestry
+	Mage furnishings:
+		Candle
+		Jug
+		Bottle
+		Stand
+		Brazier
+		Flask or jar
+	Books:
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Glyph of warding.
+	Trick: Stone obelisk that offers a game of chance, with the promise of a reward or valuable information.
+
+Room 19:
+	Room state:
+		Converted to some other use (roll on General dungeon chambers)
+	Odor:
+	Room feature:
+		Dripping blood
+		Water, large puddle
+	Obstacle:
+	Furnishings:
+		Butt (huge cask 120 gallons)
+		Cask (40 gallons)
+		Table, long
+	Mage furnishings:
+		Horn
+		Bottle
+		Retort
+		Chalk
+		Bowl
+		Parchment
+		Bottle
+	Books:
+		Biography
+
+Room 20:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+	Room feature:
+		Dung
+		Water trickle
+	Obstacle:
+	Furnishings:
+		Altar
+		Pegs
+		Cask (40 gallons)
+	Mage furnishings:
+		Tweezers
+		Parchment
+		Herbs
+		Tongs
+		Hourglass
+	Books:
+		Text on brewing
+		Text on medicine
+		Historical text
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Moved (Moved). Effect: Fire shoots out from wall, floor or object.
+
+Room 21:
+	Room state:
+		Pristine condition
+	Odor:
+		Smoky
+	Room feature:
+		Ashes
+		Dripping blood
+	Obstacle:
+		Cave-in
+	Furnishings:
+		Sack
+		Table, round
+		Workbench
+	Mage furnishings:
+		Workbench
+		Pentacle
+		Tube (piping)
+		Workbench
+		Vial
+		Retort
+		Brazier
+		Hourglass
+	Books:
+		Account records
+		Letter
+		Text on masonry
+		Magic tricks (not a spellbook)
+		Almanac
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Moved through (doorway, hallway). Effect: Magic missiles shoot from an object.
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Opened (door, treasure chest). Effect: Floor collapses or is an illusion.
+
+Room 22:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+	Room feature:
+		Dried blood
+		Cobwebs
+	Obstacle:
+	Furnishings:
+		Buffet cabinet
+		Pegs
+		Keg (small barrel, 20 gallons)
+	Mage furnishings:
+		Book
+		Tube (piping)
+		Workbench
+		Pot
+		Flask or jar
+		Pan
+		Brazier
+	Books:
+		Alchemist's notebook
+		Sheet music
+		Contract
+		Book of pressed flowers
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Opened (door, treasure chest). Effect: Lightning bolt shoots from wall or object.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Looked at (mural, arcane symbol). Effect: Locked room floods with water or acid.
+
+Room 23:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+	Obstacle:
+	Furnishings:
+		Sconce
+		Crate
+		Barrel (40 gallons)
+		Table, small
+	Mage furnishings:
+		Kettle
+		Alembic
+		Book
+		Crucible
+		Workbench
+		Funnel
+		Cauldron
+		Flask or jar
+	Books:
+		Dictionary
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Stepped on (floor, stairs). Effect: Collapsing staircase crates a ramp that deposits characters into a pit at its lower end.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved (Moved). Effect: Door or other object is coated with contact poison.
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Moved (Moved). Effect: Hidden pit opens beneath characters (25% chance that there is a black pudding or gelatinous cube at the bottom of the pit).
+
+Room 24:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Cracks, wall
+	Obstacle:
+	Furnishings:
+		Couch
+		Bench
+		Wood billets
+	Mage furnishings:
+		Bottle
+		Desk
+		Book
+		Stand
+		Lens (concave or convex)
+		Bottle
+		Pot
+		Beaker
+	Books:
+		Navigational chart or star chart
+		Last will and testament
+		Map or atlas
+		Legal code
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Floor collapses or is an illusion.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved through (doorway, hallway). Effect: Brittle stairs collapse over spikes.
+
+Room 25:
+	Room state:
+		Ashes, contents mostly burned
+	Odor:
+	Room feature:
+		Cracks, floor
+		Mold (common)
+	Obstacle:
+		Flooding leaves 2d10 ft. of water in the area; create upward sloping passages or, raised floors, or stairs to contain the water
+	Furnishings:
+		Pallet
+		Couch
+		Urn
+		Cupboard
+	Mage furnishings:
+		Workbench
+		Bottle
+		Rod, stirring or mixing
+		Tube (piping)
+		Stand
+		Water clock
+		Pan
+		Tube (container)
+	Books:
+		Tome of forbidden lore
+	Deadly (DC 16 - 20, +9 to +12) trap. Triggered by Moved through (doorway, hallway). Effect: Brittle stairs collapse over spikes.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Locked room floods with water or acid.

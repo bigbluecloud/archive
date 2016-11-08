@@ -1,0 +1,12 @@
+{
+    "Clear and damp": 60,
+    "Clear and drafty": 10,
+    "Clear but cold": 10,
+    "Foggy or misty and cold": 3,
+    "Clear, with mist covering floor": 2,
+    "Clear and warm": 5,
+    "Hazy and humid": 3,
+    "Smoky or steamy": 3,
+    "Clear, with smoke covering the ceiling": 2,
+    "Clear and windy": 2
+}

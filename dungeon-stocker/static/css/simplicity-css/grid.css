@@ -1,0 +1,77 @@
+/*
+*   grid.css
+*   Contains the rules for making a grid layout, they aren't precompiled with LESS/SASS (yet)
+*   https://css-tricks.com/dont-overthink-it-grids/ - for reference
+*/
+
+/* Merge this into simplicity.css when it is generic enough */
+[class*='col-'], [class*='col-']:before, [class*='col-']:after {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.grid {
+  padding-bottom: 10px;
+}
+
+.grid:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.grid [class*='col-']:last-of-type {
+  padding-right: 0;
+}
+
+/* Inner gutters */
+
+[class*='col-'] {
+  float: left;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+/* Outer gutters */
+.grid-pad {
+  padding: 10px 0 0 10px;
+}
+.grid-pad [class*='col-']:last-of-type {
+  padding-right: 10px;
+}
+
+/* Row styling */
+.row {
+  margin-bottom: 10px;
+}
+
+/* Column widths */
+
+.col-1 {
+  width: 100%;
+}
+
+.col-3-4 {
+  width: 75%;
+}
+
+.col-1-2 {
+  width: 50%;
+}
+
+.col-2-3 {
+  width: 66.66%;
+}
+
+.col-1-3 {
+  width: 33.33%;
+}
+
+.col-1-4 {
+  width: 25%;
+}
+
+.col-1-8 {
+  width: 12.5%;
+}

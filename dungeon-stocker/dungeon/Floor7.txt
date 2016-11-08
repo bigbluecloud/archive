@@ -1,0 +1,667 @@
+Floor air is Clear and damp.
+
+Room 1:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+	Obstacle:
+	Furnishings:
+		Bucket
+	Mage furnishings:
+		Brazier
+		Brazier
+		Flask or jar
+		Beaker
+		Balance and weights
+		Jug
+		Spatula
+	Books:
+		Doodles or sketches
+	Trick: Runes engraved on wall or floor that bestows resistance or vulnerability.
+
+Room 2:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+		Stale
+	Room feature:
+		Water trickle
+		Dung
+	Obstacle:
+	Furnishings:
+		Cask (40 gallons)
+		Pegs
+	Mage furnishings:
+		Pan
+		Retort
+		Pipe, smoking
+		Herbs
+		Furnace
+		Candlestick
+		Workbench
+		Beaker
+		Workbench
+	Books:
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved (Moved). Effect: Spears (possibly poisoned) spring out.
+
+Room 3:
+	Room state:
+		Converted to some other use (roll on General dungeon chambers)
+	Odor:
+		Earthy
+	Room feature:
+		Damp ceiling
+		Bones
+	Obstacle:
+	Furnishings:
+		Bed
+		Pallet
+		Chest, large
+		Crate
+	Mage furnishings:
+		Scroll
+		Workbench
+		Book
+		Candlestick
+		Stand
+		Jug
+		Quill
+		Cauldron
+	Books:
+		Alchemist's notebook
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved (Moved). Effect: Touching an object triggers a disintegrate spell.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved through (doorway, hallway). Effect: Scything blade emerges from wall or object.
+
+Room 4:
+	Room state:
+		Pool of water, chamber's original contents are damaged
+	Odor:
+	Room feature:
+		Cobwebs
+		Cobwebs
+	Obstacle:
+		Lava flows through the area (50% chance there is a bridge crossing it)
+	Furnishings:
+		Sofa
+		Chair (plain)
+		Crate
+	Mage furnishings:
+		Book
+		Herbs
+		Pan
+		Workbench
+		Spatula
+		Pot
+		Candlestick
+		Bottle
+		Rod, stirring or mixing
+		Tube (piping)
+	Books:
+		Alchemist's notebook
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved (Moved). Effect: Hidden pit floods with acid or fire.
+
+Room 5:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Bones
+	Obstacle:
+		Poisonous gas (deals 1d6 damage per minute of exposure)
+	Furnishings:
+		Pallet
+		Carpet (large)
+		Cushion
+	Mage furnishings:
+		Jug
+		Water clock
+		Retort
+		Beaker
+		Alembic
+		Tongs
+	Books:
+		Recipe book or cookbook
+		Tome of forbidden lore
+		Tome of forbidden lore
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Vent releases gas; blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing.
+	Trick: Statue that casts suggestion on the characters.
+
+Room 6:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+		Leather boot
+	Obstacle:
+	Furnishings:
+		Sofa
+		Loom
+		Closet
+	Mage furnishings:
+		Brazier
+		Quill
+		Cage
+		Skull
+		Chalk
+		Alembic
+		Cauldron
+	Books:
+		Historical text
+		Catalog
+		Doodles or sketches
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Lightning bolt shoots from wall or object.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Hidden pit opens beneath characters (25% chance that there is a black pudding or gelatinous cube at the bottom of the pit).
+
+Room 7:
+	Room state:
+		Ashes, contents mostly burned
+	Odor:
+	Room feature:
+		Dampness, wall
+	Obstacle:
+	Furnishings:
+		Tapestry
+		Couch
+		Statue
+	Mage furnishings:
+		Workbench
+		Cauldron
+		Sextant
+		Pot
+		Stand
+		Stuffed animal
+	Books:
+		Letter
+		Letter
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved through (doorway, hallway). Effect: Huge wheeled statue rolls down corridor.
+
+Room 8:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+		Ozone
+	Room feature:
+		Dust
+		Cobwebs
+		Dried blood
+	Obstacle:
+	Furnishings:
+		Mat
+		Throne
+		Fireplace and wood
+	Mage furnishings:
+		Skull
+		Workbench
+		Ladle
+		Pentagram
+		Horn
+		Spoon, measuring
+		Decanter
+		Lens (concave or convex)
+		Workbench
+	Books:
+		Prayer book
+		Text on masonry
+		Historical text
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Pendulum, either bladed or weighted as a maul, swings across the room or hall.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Opened (door, treasure chest). Effect: Touching an object triggers a disintegrate spell.
+	Trick: Cracked gem that teleports characters to another place.
+
+Room 9:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+	Obstacle:
+	Furnishings:
+		Pegs
+		Table, round
+		Armchair
+	Mage furnishings:
+		Flask or jar
+		Chalk
+		Herbs
+		Dish
+		Parchment
+		Stand
+		Workbench
+		Chalk
+		Parchment
+		Desk
+	Books:
+		Text on brewing
+		Prayer book
+		Diary
+		Painting
+		Diary
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Collapsing staircase crates a ramp that deposits characters into a pit at its lower end.
+
+Room 10:
+	Room state:
+		Used as a campsite
+	Odor:
+		Manure
+	Room feature:
+		Arrow, broken
+		Cracks, wall
+	Obstacle:
+	Furnishings:
+		Statue
+		Chest, medium
+		Wood billets
+	Mage furnishings:
+		Cauldron
+		Pipe, smoking
+		Flask or jar
+		Balance and weights
+		Pentagram
+		Stool
+		Tripod
+		Prism
+		Book
+	Books:
+		Text on herbalism
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved (Moved). Effect: Symbol.
+	Deadly (DC 16 - 20, +9 to +12) trap. Triggered by Moved through (doorway, hallway). Effect: Locked room floods with water or acid.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved through (doorway, hallway). Effect: Hidden pit opens beneath characters (25% chance that there is a black pudding or gelatinous cube at the bottom of the pit).
+
+Room 11:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+		Cobwebs
+	Obstacle:
+		Chasm 1d4 x 10ft. wide and 2d6 x 10ft. deep, possibly connected to other parts of the dungeon
+	Furnishings:
+		Chest, large
+		Table, small
+		Tun (huge cask, 250 gallons)
+	Mage furnishings:
+		Crystal ball
+		Alembic
+		Beaker
+		Stand
+		Book
+		Balance and weights
+		Alembic
+		Bottle
+	Books:
+		Catalog
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Floor collapses or is an illusion.
+	Deadly (DC 16 - 20, +9 to +12) trap. Triggered by Moved (Moved). Effect: Fire shoots out from wall, floor or object.
+	Trick: Glass sculpture that casts polymorph on the characters (lasts 1 hour).
+
+Room 12:
+	Room state:
+		Converted to some other use (roll on General dungeon chambers)
+	Odor:
+	Room feature:
+		Spike, rusted
+		Dripping blood
+	Obstacle:
+	Furnishings:
+		Table, round
+		Pipe (large cask, 105 gallons)
+		Bucket
+	Mage furnishings:
+		Flask or jar
+		Scroll
+		Pan
+		Skull
+		Spoon, measuring
+		Flask or jar
+		Funnel
+		Box
+	Books:
+		Diary
+		Text on astrology
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Moved through (doorway, hallway). Effect: Locking pit floods with water.
+
+Room 13:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+		Putrid
+	Room feature:
+	Obstacle:
+	Furnishings:
+		Armoire
+		Table, small
+		Pallet
+	Mage furnishings:
+		Flask or jar
+		Spatula
+		Decanter
+		Skull
+		Scroll
+		Horn
+		Bowl
+		Furnace
+		Alembic
+	Books:
+		Text on astrology
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Moved (Moved). Effect: Brittle stairs collapse over spikes.
+
+Room 14:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Water, small puddle
+	Obstacle:
+	Furnishings:
+		Hamper
+		Hassock
+		Tapestry
+	Mage furnishings:
+		Crystal ball
+		Tube (piping)
+		Brazier
+		Water clock
+		Book
+		Book
+		Tongs
+		Flask or jar
+		Stuffed animal
+		Workbench
+	Books:
+		Recipe book or cookbook
+	Deadly (DC 16 - 20, +9 to +12) trap. Triggered by Touched (doorknob, statue). Effect: Vent releases gas; blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing.
+	Trick: Cracked gem that teleports characters to another place.
+
+Room 15:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+	Room feature:
+		Ashes
+		Guano
+	Obstacle:
+		Poisonous gas (deals 1d6 damage per minute of exposure)
+	Furnishings:
+		Rug (small or medium)
+		Dais
+		Arras or curtain
+		Rushes
+	Mage furnishings:
+		Tongs
+		Alembic
+		Crucible
+		Quill
+		Funnel
+		Skull
+		Box
+		Flask or jar
+		Bottle
+		Furnace
+	Books:
+		Navigational chart or star chart
+		Letter
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Stepped on (floor, stairs). Effect: Thunderwave knocks characters into a pit or spikes.
+
+Room 16:
+	Room state:
+		Used as a campsite
+	Odor:
+	Room feature:
+		Water, large puddle
+		Rags
+		Cobwebs
+	Obstacle:
+	Furnishings:
+		Bag
+		Brazier and charcoal
+	Mage furnishings:
+		Chalk
+		Pentagram
+		Dish
+		Workbench
+		Alembic
+		Balance and weights
+		Vial
+		Chalk
+		Quill
+		Retort
+	Books:
+		Legal code
+		Text on astrology
+		Magic tricks (not a spellbook)
+		Text on medicine
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Opened (door, treasure chest). Effect: A weapon, suit of armour, or rug animates and attaches when touched (See "Animated objects in the Monster Manual").
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Looked at (mural, arcane symbol). Effect: Steel or stone jaws restrain a character.
+
+Room 17:
+	Room state:
+		Ashes, contents mostly burned
+	Odor:
+	Room feature:
+		Water, small puddle
+	Obstacle:
+	Furnishings:
+		Rug (small or medium)
+		Table, large
+		Butt (huge cask 120 gallons)
+		Table, low
+	Mage furnishings:
+		Brazier
+		Stuffed animal
+		Desk
+		Alembic
+		Furnace
+		Tank (container)
+		Brazier
+		Prism
+		Book
+	Books:
+		Sheet music
+		Dictionary
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Moved through (doorway, hallway). Effect: Door or other object is coated with contact poison.
+
+Room 18:
+	Room state:
+		Furniture wrecked but still present
+	Odor:
+		Chlorine
+	Room feature:
+		Cracks, floor
+	Obstacle:
+	Furnishings:
+		Tub
+		Pallet
+		Bed
+	Mage furnishings:
+		Parchment
+		Beaker
+		Beaker
+		Skull
+		Beaker
+		Spoon, measuring
+		Balance and weights
+		Crucible
+	Books:
+		Bestiary
+		Catalog
+		Magic tricks (not a spellbook)
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Looked at (mural, arcane symbol). Effect: Spears (possibly poisoned) spring out.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Opened (door, treasure chest). Effect: Vent releases gas; blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing.
+
+Room 19:
+	Room state:
+		Ashes, contents mostly burned
+	Odor:
+	Room feature:
+		Mold (common)
+	Obstacle:
+	Furnishings:
+		Mattress
+		Chandelier
+	Mage furnishings:
+		Tweezers
+		Workbench
+		Balance and weights
+		Rod, stirring or mixing
+		Flask or jar
+		Bottle
+		Scroll
+	Books:
+		Novel
+		Royal proclamation
+	Deadly (DC 16 - 20, +9 to +12) trap. Triggered by Touched (doorknob, statue). Effect: Walls slide together.
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Opened (door, treasure chest). Effect: Darts shoot out of an opened chest.
+
+Room 20:
+	Room state:
+		Pool of water, chamber's original contents are damaged
+	Odor:
+	Room feature:
+		Dampness, wall
+	Obstacle:
+	Furnishings:
+		Fireplace and wood
+		Throne
+		Painting
+	Mage furnishings:
+		Alembic
+		Tripod
+		Brazier
+		Pan
+		Scroll
+	Books:
+		Letter
+		Letter
+		Letter
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Magic missiles shoot from an object.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Thunderwave knocks characters into a pit or spikes.
+
+Room 21:
+	Room state:
+		Ashes, contents mostly burned
+	Odor:
+	Room feature:
+		Coin, copper
+		Dung
+	Obstacle:
+	Furnishings:
+		Bunks
+		Rushes
+		Pillow
+	Mage furnishings:
+		Book
+		Book
+		Vial
+		Bowl
+		Decanter
+		Decanter
+	Books:
+		Calendar
+		Travelogue for an exotic land
+
+Room 22:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+		Acrid
+	Room feature:
+		Bones
+		Water, small puddle
+	Obstacle:
+		Lava flows through the area (50% chance there is a bridge crossing it)
+	Furnishings:
+		Armchair
+		Hogshead (large cask, 65 gallons)
+		Sheet
+	Mage furnishings:
+		Ladle
+		Hourglass
+		Retort
+		Prism
+		Wire
+		Tripod
+	Books:
+		Magic tricks (not a spellbook)
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Looked at (mural, arcane symbol). Effect: Magic missiles shoot from an object.
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Stepped on (floor, stairs). Effect: Collapsing staircase crates a ramp that deposits characters into a pit at its lower end.
+
+Room 23:
+	Room state:
+		Rubble, ceiling partially collapsed
+	Odor:
+	Room feature:
+		Fungi (common)
+		Dampness, wall
+	Obstacle:
+		Cave-in
+	Furnishings:
+		Cupboard
+		Altar
+	Mage furnishings:
+		Vial
+		Vial
+		Sextant
+		Workbench
+		Brazier
+		Flask or jar
+		Flask or jar
+		Tube (container)
+		Parchment
+	Books:
+		Sheet music
+		Text on local flora
+		Contract
+		Diary
+		Catalog
+	Dangerous (DC 12 - 15, +6 to +8) trap. Triggered by Touched (doorknob, statue). Effect: Glyph of warding.
+
+Room 24:
+	Room state:
+		Holes, floor partially collapsed
+	Odor:
+	Room feature:
+		Dripping blood
+		Mold (common)
+	Obstacle:
+	Furnishings:
+		Armoire
+		Stand
+		Table, long
+	Mage furnishings:
+		Balance and weights
+		Flask or jar
+		Workbench
+		Bellows
+		Candlestick
+		Bottle
+		Funnel
+		Pan
+	Books:
+		Grammar workbook
+		Grammar workbook
+		Spellbook
+
+Room 25:
+	Room state:
+		Converted to some other use (roll on General dungeon chambers)
+	Odor:
+	Room feature:
+	Obstacle:
+	Furnishings:
+		Pipe (large cask, 105 gallons)
+		Chest of drawers
+		Sack
+	Mage furnishings:
+		Beaker
+		Balance and weights
+		Parchment
+		Pentacle
+		Workbench
+		Tube (piping)
+		Beaker
+		Tank (container)
+	Books:
+		Catalog
+		Letter
+		Travelogue of the planes
+	Deadly (DC 16 - 20, +9 to +12) trap. Triggered by Opened (door, treasure chest). Effect: Vent releases gas; blinding, acidic, obscuring, paralyzing, poisonous, or sleep-inducing.
+	Setback (DC 10 - 11, +3 to +5) trap. Triggered by Moved (Moved). Effect: Floor collapses or is an illusion.
