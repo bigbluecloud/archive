@@ -1,0 +1,3 @@
+CYGWIN=server
+run bin/cygserver-config
+run /usr/sbin/cygserver&

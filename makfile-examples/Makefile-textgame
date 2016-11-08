@@ -1,0 +1,34 @@
+OBJDIR = obj
+HEADDIR = head
+OBJECTS = $(addprefix $(OBJDIR)/,main.o mersennetwister.o engine.o entity.o player.o)
+CFLAGS = -c -g
+CXX = g++
+TARGET = textgame.a
+TARGETDIR = bin
+
+vpath %.cpp src/
+vpath %.h head/
+
+.PHONY: clean
+
+all: $(OBJECTS) | $(TARGETDIR)
+	@$(CXX) -O4 -o $(TARGETDIR)/$(TARGET) $^
+	@echo Successfully compiled to $(TARGETDIR)/$(TARGET)
+
+$(OBJDIR)/%.o: %.cpp | $(OBJDIR)
+	@$(CXX) $(CFLAGS) -I$(HEADDIR)/ $< -o $@
+	@echo Compilied $@
+
+$(OBJDIR):
+	@mkdir $(OBJDIR)
+	@echo Make directory obj/
+
+$(TARGETDIR):
+	@mkdir $(TARGETDIR)
+	@echo Make directory bin/
+	@cp -r gamefiles/* bin/
+	@echo Copy files from gamefiles/ to bin/
+
+clean:
+	@rm -rf $(OBJDIR)/ $(TARGETDIR)/
+	@echo Cleaned successfully

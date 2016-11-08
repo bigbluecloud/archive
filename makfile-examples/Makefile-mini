@@ -1,0 +1,57 @@
+OBJDIR = obj
+HEADDIR = head
+OBJECTS = $(addprefix $(OBJDIR)/,main.o)
+CFLAGS = -c -g
+CC = gcc
+WCC = i686-pc-mingw32-gcc
+TARGET = mini_linux
+WTARGET = mini_win32.exe
+TARGETDIR = bin
+RELEASEDIR = bin-release
+
+vpath %.c src/
+vpath %.h head/
+
+.PHONY: clean-debug clean-release clean-all release-linux release-win
+
+all: $(OBJECTS) | $(TARGETDIR)
+	@$(CC) -o $(TARGETDIR)/$(TARGET) $^
+	@echo Successfully compiled to $(TARGETDIR)/$(TARGET)
+
+$(OBJDIR)/%.o: %.c | $(OBJDIR)
+	@$(CC) $(CFLAGS) -I$(HEADDIR)/ $< -o $@
+	@echo Compilied $@
+
+$(OBJDIR):
+	@mkdir $(OBJDIR)
+	@echo Made directory $(OBJDIR)
+
+$(TARGETDIR):
+	@mkdir $(TARGETDIR)
+	@echo Made directory $(TARGETDIR)
+
+$(RELEASEDIR):
+	@mkdir $(RELEASEDIR)
+	@echo Made directory $(RELEASEDIR)
+
+clean-all:
+	@rm -rf $(OBJDIR)/ $(TARGETDIR)/ $(RELEASEDIR)
+	@echo Cleaned all targets
+  
+clean-debug:
+	@rm -rf $(OBJDIR)/ $(TARGETDIR)/
+	@echo Cleaned debug project
+
+clean-release:
+	@rm -rf $(OBJDIR)/ $(RELEASEDIR)/
+	@echo Cleaned release project
+  
+release-linux: $(OBJECTS) | $(RELEASEDIR)
+	@$(CC) -O4 -o $(RELEASEDIR)/$(TARGET) $^
+	@rm -rf $(OBJDIR)
+	@echo Compiled 32-bit release version of mini for Linux
+
+release-win: $(OBJECTS) | $(RELEASEDIR)
+	@$(WCC) -O4 -o $(RELEASEDIR)/$(WTARGET) $^
+	@rm -rf $(OBJDIR)
+	@echo Made 32-bit release version of mini for Windows

@@ -1,0 +1,34 @@
+﻿Build started 9/11/2014 3:24:03 PM.
+     1>Project "D:\Programming\Cygwin\home\Jared\Assignment1\CLIENT\WIN32 client\WIN32 client\WIN32 client.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WIN32 client.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Programs\C++ Visual Studio 2010 Express\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\main.c ..\..\time.c
+         time.c
+     1>d:\programming\cygwin\home\jared\assignment1\client\time.c(20): warning C4244: 'return' : conversion from '__int64' to 'unsigned long', possible loss of data
+         main.c
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         d:\Programs\C++ Visual Studio 2010 Express\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\Cygwin\home\Jared\Assignment1\CLIENT\WIN32 client\Debug\WIN32 client.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WIN32 client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Programming\Cygwin\home\Jared\Assignment1\CLIENT\WIN32 client\Debug\WIN32 client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\Cygwin\home\Jared\Assignment1\CLIENT\WIN32 client\Debug\WIN32 client.lib" /MACHINE:X86 "Debug\WIN32 client.exe.embed.manifest.res"
+         Debug\display.obj
+         Debug\file.obj
+         Debug\init.obj
+         Debug\main.obj
+         Debug\sys.obj
+         Debug\time.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\WIN32 client.exe.embed.manifest" /manifest "Debug\WIN32 client.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         WIN32 client.vcxproj -> D:\Programming\Cygwin\home\Jared\Assignment1\CLIENT\WIN32 client\Debug\WIN32 client.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\WIN32 client.unsuccessfulbuild".
+         Touching "Debug\WIN32 client.lastbuildstate".
+     1>Done Building Project "D:\Programming\Cygwin\home\Jared\Assignment1\CLIENT\WIN32 client\WIN32 client\WIN32 client.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89
